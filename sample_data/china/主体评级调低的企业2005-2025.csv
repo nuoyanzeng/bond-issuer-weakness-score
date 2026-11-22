@@ -1,0 +1,7 @@
+﻿EnterpriseName,RatingObjectNature,RatingAdjustmentDate,PreviousRating,LatestIssuerRating
+企业名称,评级对象性质,评级调整日期,前次评级,最新主体评级
+示例发行人A（虚构）,公司,2020-08-31,AA+,AA
+示例发行人B（虚构）,公司,2021-08-31,AA+,AA
+示例发行人C（虚构）,公司,2022-08-31,AA+,AA
+示例发行人D（虚构）,公司,2023-08-31,AA+,AA
+示例发行人E（虚构）,公司,2024-08-31,AA+,AA

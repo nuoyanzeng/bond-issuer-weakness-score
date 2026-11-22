@@ -1,0 +1,17 @@
+# Local research materials and datasets.
+reference/
+local_archive/
+docs/
+data_raw/
+sample_data/metadata/
+output/
+code/cz_predictors/
+
+# Generated local files.
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+!.env.example
